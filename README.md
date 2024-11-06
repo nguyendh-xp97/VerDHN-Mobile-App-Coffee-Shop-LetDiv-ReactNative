@@ -1,4 +1,4 @@
-Project: [[React Native]] Coffee Shop 
+Project: [React Native]Coffee Shop 
 
 Time: 1/02/2024 – 1/03/2024 Description:
 
