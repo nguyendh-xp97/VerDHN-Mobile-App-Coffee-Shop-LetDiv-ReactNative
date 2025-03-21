@@ -6,8 +6,8 @@ Project: [React Native]Coffee Shop
 
 + User flow: This web application consists of two main parts: the customer page and the management page:
 
- The customer page includes main modules such as login, registration, shopping cart, custom design, products, etc.
- The management page includes main modules such as product management, employee management, order management, supplier management, etc., with CRUD features and other advanced features like search, filter, and export files in various formats.
+ -> The customer page includes main modules such as login, registration, shopping cart, custom design, products, etc.
+ -> The management page includes main modules such as product management, employee management, order management, supplier management, etc., with CRUD features and other advanced features like search, filter, and export files in various formats.
 
 + Number of Members: 1 designer, 1 dev
 
