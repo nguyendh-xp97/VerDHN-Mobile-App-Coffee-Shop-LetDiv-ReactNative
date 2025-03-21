@@ -1,12 +1,12 @@
 Project: [React Native]Coffee Shop 
 
-Time: 1/02/2024 – 1/03/2024 Description:
+Time: 1/01/2025 – 30/03/2025 Description:
 
-Overview: This website was designed and programmed according to the requirements of the client, Coffee Shop, to enhance the company’s professionalism and improve user experience, thereby attracting more customers to the business.
+Overview:This mobile app was designed and programmed according to the client's requirements to enhance the company's professionalism and improve the user experience, thereby attracting more customers to the business.The app includes key features such as menu display, a shopping cart for online food ordering, bill payment, real-time food delivery tracking, complaints and feedback, etc.
 
-Number of Members: 2 designer, 2 dev
+Number of Members: 1 designer, 1 dev
 
-Technologies used (framework,library,..): Figma, ReactJS, MUI, ES6,API,NPM, GIT, Responsive web design …
+Technologies used (framework,library,..):  React Native, RTK, Context API, ES6, API Restful ,NPM, GIT-GITHUB, JWT, Figma, Cronjob,…
 
 The part I have implemented: 
-+ In this project, I play the role of a UI Designer, responsible for the interface of the customer-facing pages. I also participate in creating the UI design.
++ In this project, I play the role of a full-stack developer, responsible for both front-end development and back-end logic and features. Additionally, I also take on the role of a UI Designer, in charge of designing the main screens of this application.
